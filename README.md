@@ -9,4 +9,4 @@ The corresponding two-body effective Hamiltonians in the sd shell model space ar
 DJ16A is the monopole-modified version of DJ16.
 
 The details can be found in
-N.A. Smirnova, B. R. Barrett, Y. Kim, I.J. Shin, P. Maris, A.M. Shirokov, J.P. Vary, submitted to Phys. Rev. C (2019).
+N.A. Smirnova, B. R. Barrett, Y. Kim, I.J. Shin, A.M. Shirokov, E. Dikmen, P. Maris, J.P. Vary, Phys. Rev. C100, 054329 (2019).
